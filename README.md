@@ -1,4 +1,4 @@
-# NCL IoT Lab
+# Pixelab IoT Lab
 
 [![N|Solid](https://storage.googleapis.com/iot-sensors-178ba.appspot.com/iot.png)](https://en.wikipedia.org/wiki/Internet_of_things)
 
